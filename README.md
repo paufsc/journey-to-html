@@ -29,8 +29,6 @@ journey-to-![][1]
 * [HTML Renk]()
 * [HTML Karakter]()
 * [HTML Formlar]()
-* [HTML Formlar]()
-* [HTML Formlar]()
 
 
 -----------------------
