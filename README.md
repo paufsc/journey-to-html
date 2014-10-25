@@ -1,4 +1,5 @@
-journey-to-![][1]
+<p align="center"><b>Journey to HTML </p>
+![][1]
 ===============
 
 >Learning journey from scratch: Self-learning on the 'HTML: Hyper Text Markup Language' 
@@ -8,7 +9,7 @@ journey-to-![][1]
 -------------------
 ###İçindekiler
 
-* [HTML]() 
+* [HTML](https://github.com/mehmetdik/journey-to-html/blob/master/docs/tr/HTML.md) 
 * [HTML Giriş]()
 * [HTML Elementler]()
 * [HTML Etiketler]()
