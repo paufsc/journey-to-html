@@ -1,8 +1,5 @@
 <p align="center"><b>Journey to HTML </p>
-<p align="center">
-	<img alt="HTML" src="https://github.com/paufsc/journey-to-html/blob/master/assets/img/html.jpg
-" height="125" width="125">
-</p>
+![][1]
 ===============
 
 >Learning journey from scratch: Self-learning on the 'HTML: Hyper Text Markup Language' 
