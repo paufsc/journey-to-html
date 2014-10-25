@@ -16,4 +16,4 @@
 
   ####Kod:
   ![][1]
-  [1]: https://github.com/paufsc/journey-to-html/blob/master/assets/img/1.jpg
+  [1]: https://github.com/mehmetdik/journey-to-html/blob/master/assets/img/1.png
