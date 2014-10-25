@@ -13,3 +13,7 @@
   > * Bir HTML dosyası basit bir text editör ile oluşturulabilir.
 
   ---------------
+
+  ####Kod:
+  ![][1]
+  [1]: https://github.com/paufsc/journey-to-html/blob/master/assets/img/1.jpg
