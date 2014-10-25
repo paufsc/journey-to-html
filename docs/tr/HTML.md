@@ -1,6 +1,6 @@
 ###HTML nedir?
  ------------ 
- <pre>
+ 
   > * Zengin Metin İşaret Dili (İngilizce Hyper Text Markup Language, ks. HTML) günümüzde İnternet
     üzerinde  veri paylaşımı için kullanılan en yaygın metin tabanlı dildir.
   
@@ -11,5 +11,5 @@
   > * Bir HTML dosyasının uzantısı htm veya html olmak zorundadır.
   
   > * Bir HTML dosyası basit bir text editör ile oluşturulabilir.
-  </pre>
+
   ---------------
