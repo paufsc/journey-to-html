@@ -9,8 +9,7 @@
 -------------------
 ###İçindekiler
 
-* [HTML](https://github.com/mehmetdik/journey-to-html/blob/master/docs/tr/HTML.md) 
-* [HTML Giriş]()
+* [HTML Giriş](https://github.com/mehmetdik/journey-to-html/blob/master/docs/tr/HTML.md)
 * [HTML Elementler]()
 * [HTML Etiketler]()
 * [HTML Parametreler]()
