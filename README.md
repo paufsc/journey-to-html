@@ -9,7 +9,7 @@
 -------------------
 ###İçindekiler
 
-* [HTML Giriş](./docs/tr/HTML.md) <center>![%100](http://progressed.io/bar/100)</center>
+* [HTML Giriş](./docs/tr/HTML.md) ![%100](http://progressed.io/bar/100)</center>
 * [HTML Elementler]()                               ![%0](http://progressed.io/bar/0)
 * [HTML Etiketler]()   ![%0](http://progressed.io/bar/0)
 * [HTML Parametreler]() ![%0](http://progressed.io/bar/0)
