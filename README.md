@@ -11,7 +11,7 @@
 
 * [HTML Giriş](./docs/tr/HTML.md)                   ![%100](http://progressed.io/bar/100)
 * [HTML Elementler]()                               ![%0](http://progressed.io/bar/0)
-* [HTML Etiketler]()  
+* [HTML Etiketler]()   ![%0](http://progressed.io/bar/0)
 * [HTML Parametreler]() ![%0](http://progressed.io/bar/0)
 * [HTML Özellikler]() ![%0](http://progressed.io/bar/0)
 * [HTML Başlıklar]() ![%0](http://progressed.io/bar/0)
