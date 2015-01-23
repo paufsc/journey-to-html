@@ -2,6 +2,7 @@ iframe bir site içinde başka bir siteyi görüntülemek için kullanılır.
 
 Kullanımı:
 
+<iframe src="http://www.w3schools.com" width="1200" height="1200"></iframe>"
 
 <iframe src="http://www.w3schools.com" width="1200" height="1200"></iframe>"
 
