@@ -1,4 +1,4 @@
-#HTML Etiketleri
+#HTML Öğeleri
 
 * HTML etiketleri, HTML öğelerini belirtmek için kullanılır.
 * HTML etiketleri 2 karakter ile sınırlanır. < ve >
@@ -26,5 +26,5 @@
 
 ===========
 
-  |[Next]()
+  |[Next](Etiketler.md)
   -----|-----
