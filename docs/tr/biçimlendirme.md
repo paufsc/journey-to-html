@@ -21,7 +21,7 @@ Html de biçimlerndirme konusu nedir?
 
 <p>Yunus Emre ERKEN</p> 
 
-<p><b>Yunus Emre ERKEN</b>.</p> -> 
+<p><b>Yunus Emre ERKEN</b>.</p> 
 bu iki örnek kod üzerinden gidersek anlaşılacağı üzere üstteki kod normal harflerle alttaki ise 
 <b><b/> kodu kullanıldığı için kalın olarak yazılıcaktır.
 >>>>>İtalic text formatıysa metni eğik ve vurgulamak için kullanılır. Bunun için <i></i> etiketi tanımlanmıştır.
