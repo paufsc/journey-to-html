@@ -29,11 +29,11 @@ Etiket(Tag)	     Açıklama
 -------          --------
 <html>	        Bir HTML dökümanını belirtir
 <body>	        Dökümanın görüntülenecek kısmını berlitir.
-<h1> to <h6>      Başlıkları belirtir.
+<h1> to <h6>    Başlıkları belirtir.
 <p>           	Bir paragraf belirtir
 <br>          	Boş bir satır bırakır.
 <hr>          	Sayfada yatay bir çizgi çizer
-<!-->	         Yorum satırı olduğunu belirtir.
+<!-->	          Yorum satırı olduğunu belirtir.
 ```
 
 
