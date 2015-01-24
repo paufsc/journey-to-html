@@ -27,7 +27,7 @@
 * [HTML Düzeni]() 
 * [HTML Iframe](./docs/tr/iframe.md)   
 * [HTML Renk](./docs/tr/renkler.md) 
-* [HTML Karakter]() 
+* [HTML Karakter](./docs/tr/karakterler.md) 
 * [HTML Formlar](./docs/tr/formlar.md) 
 
 
