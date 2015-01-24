@@ -35,6 +35,9 @@ HTML dökümanınızdaki ilk tag (etiket) `<html>`'dir. Bu etiket tarayıcınız
 
 `<h1>` ve `</h1>` etiketleri arasında kalan kısım, `h1` değeri büyüklüğünde olur. 
 
+![][1]
+[1]:http://fatihhayrioglu.com/images/yapisal.gif
+
 ===========
 
 |[Next](Elementler.md)
