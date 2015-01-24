@@ -36,8 +36,3 @@
 
 * [w3schools](http://www.w3schools.com/html/)
 * [Html Dersleri](http://www.htmldersleri.org/)
-
-
-
-
-[1]: https://github.com/paufsc/journey-to-html/blob/master/assets/img/html.jpg
