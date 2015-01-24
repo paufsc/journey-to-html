@@ -26,7 +26,8 @@ Bold text başlığı incelersek adından anlaşılacağı gibi yazılı metinde
 <p><b>Yunus Emre ERKEN</b>.</p> 
 ```
 Bu iki örnek kod üzerinden gidersek anlaşılacağı üzere üstteki kod normal harflerle alttaki ise ```"<b><b/>"``` kodu kullanıldığı için kalın olarak yazılıcaktır.
->>>>>İtalic text formatıysa metni eğik ve vurgulamak için kullanılır. Bunun için```"<i></i>"``` etiketi tanımlanmıştır.
+
+İtalic text formatıysa metni eğik ve vurgulamak için kullanılır. Bunun için```"<i></i>"``` etiketi tanımlanmıştır.
 Örnek vermek gerekirse ;
 
 ```sh
