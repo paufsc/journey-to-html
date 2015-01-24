@@ -37,6 +37,6 @@ HTML dökümanınızdaki ilk tag (etiket) `<html>`'dir. Bu etiket tarayıcınız
 
 ===========
 
-|[Next]()
+|[Next](./docs/tr/Elementler.md)
 -----|-----
   
