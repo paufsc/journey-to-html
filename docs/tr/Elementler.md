@@ -6,7 +6,7 @@
 * Bu çiftlerden birincisine başlama etiketi, ikincisine ise bitiş etiketi denir.
 * Başlama ve bitiş etiketleri arasında kalan herşeye ise öğe içeriği denir.
 * HTML etiketleri büyük/küçük harfe duyarlı değildir, yani `<b>` ve `<B>` aynı görevi görür. (Türkçe karakter olan "İ" ve "ı" harflerinin bu durumun dışında kaldığını unutmayınız.)
-
+<br</br>
 ```sh
 <html>
 
@@ -23,8 +23,8 @@
 `<P>` elemanı, bir paragraf tanımlar.
 
 `<br>` elemanı bir alt satıra geçmemizi sağlar
-
-
+<br</br>
+<br</br>
 
 ![][1]
 [1]: http://www.ismailgursoy.com.tr/wp-content/uploads/2012/06/Drawing1.png
