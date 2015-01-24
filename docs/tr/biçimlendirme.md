@@ -1,5 +1,5 @@
 ###Html  Biçimlendirme
->>>>>>>Html de biçimlerndirme konusu nedir?
+Html de biçimlerndirme konusu nedir?
 ----Biçimlendirme konusu internet sayfasında yazıların biçimlerini içermektedir.
 
 ##Html de biçimlendirme başlıkları nelerdir?
