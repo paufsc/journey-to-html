@@ -9,25 +9,25 @@
 -------------------
 ###İçindekiler
 
-* [HTML Giriş](./docs/tr/HTML.md) ![%100](http://progressed.io/bar/100)
-* [HTML Elementler]()                           
-* [HTML Etiketler]()  
-* [HTML Parametreler](
-* [HTML Özellikler]()
-* [HTML Başlıklar]()
+* [HTML Giriş](./docs/tr/HTML.md)
+* [HTML Elementler]()     
+* [HTML Etiketler]()   
+* [HTML Parametreler]() 
+* [HTML Özellikler]() 
+* [HTML Başlıklar]() 
 * [HTML Paragraflar]()
-* [HTML Biçimlendirme](./docs/tr/biçimlendirme.md) ![%100](http://progressed.io/bar/100)
-* [HTML Stilleri]()0)
+* [HTML Biçimlendirme](./docs/tr/biçimlendirme.md) 
+* [HTML Stilleri]() 
 * [HTML Yorum]() 
 * [HTML Linkler]() 
 * [HTML Görüntüler]() 
-* [HTML Tabloları]()
+* [HTML Tabloları]() 
 * [HTML Listeleme]() 
 * [HTML Bloklar]() 
 * [HTML Düzeni]() 
-* [HTML Iframe](./docs/tr/iframe)    ![%100](http://progressed.io/bar/100)
+* [HTML Iframe](./docs/tr/iframe)   
 * [HTML Renk]() 
-* [HTML Karakter]()
+* [HTML Karakter]() 
 * [HTML Formlar]() 
 
 
