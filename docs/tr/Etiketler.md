@@ -33,7 +33,7 @@ Etiket(Tag)	     Açıklama
 <p>           	Bir paragraf belirtir
 <br>          	Boş bir satır bırakır.
 <hr>          	Sayfada yatay bir çizgi çizer
-<!-->	          Yorum satırı olduğunu belirtir.
+<!-->	        Yorum satırı olduğunu belirtir.
 ```
 
 
