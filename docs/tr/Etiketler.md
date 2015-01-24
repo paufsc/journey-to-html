@@ -17,11 +17,35 @@ HTML dilindeki en önemli etiketler, başlıklar, paragraflar ve satır atlama e
 ```sh
 <p>Bu bir paragraf</p>
 ```
+`<p>` etiketinin bileşenleri
+ 
+
+* align = "left"          Paragrafı sola dayalı olarak yazar.
+
+* align = "right"         Paragrafı sağa dayalı olarak yazar.
+
+* align = "center"        Paragrafı ortalar.
+
+* align = "justify"       Paragrafı sola ve sağa dayalı olarak yazabilmek için sözcüklerin ara boşluklarını değiştirir.
+
+* class = "css_etiketi"   Önceden tanımlı bir CSS dosyasındaki font-size, color... gibi özellikleri paragrafa uygular.
+
+
 ###Satır Atlama
 ```sh
 <p>Bu <br>bir <br>çok satırlı paragraftır.</p>
 ```
 `<br>` tagından itibaren bir alt satıra geçer
+
+###`<center>` `</center>` Etiketi
+
+Kendi yorum aralığında bulunan tüm etiketlerin ekran çıktılarını browser penceresine ekranı ortalayacak şekilde basar.
+`<center>`
+....
+Burası etiketin yorum aralığı
+.....
+`</center>`
+...
 
 ###Temel HTML Etiketleri
 ```sh
