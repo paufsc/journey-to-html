@@ -25,10 +25,10 @@
 * [HTML Listeleme]() 
 * [HTML Bloklar]() 
 * [HTML Düzeni]() 
-* [HTML Iframe](./docs/tr/iframe)   
-* [HTML Renk]() 
+* [HTML Iframe](./docs/tr/iframe.md)   
+* [HTML Renk](./docs/tr/renkler.md) 
 * [HTML Karakter]() 
-* [HTML Formlar]() 
+* [HTML Formlar](./docs/tr/formlar.md) 
 
 
 -----------------------
