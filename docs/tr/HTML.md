@@ -12,7 +12,7 @@
   
   > * Bir HTML dosyası basit bir text editör ile oluşturulabilir.
 
-
+###Örnek Kod
 ```sh
 <!DOCTYPE html>
 
