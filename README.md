@@ -21,7 +21,7 @@
 * [HTML Yorum]() 
 * [HTML Linkler]() 
 * [HTML Görüntüler]() 
-* [HTML Tabloları]() 
+* [HTML Tabloları](./docs/tr/tablolama.md) 
 * [HTML Listeleme](./docs/tr/listeleme.md) 
 * [HTML Bloklar]() 
 * [HTML Düzeni]() 
