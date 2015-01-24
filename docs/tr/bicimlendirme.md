@@ -1,6 +1,6 @@
 #Html  Biçimlendirme
 Html de biçimlerndirme konusu nedir?
-Biçimlendirme konusu internet sayfasında yazıların biçimlerini içermektedir.
+Biçimlendirme konusu internet sayfasında yazıların biçimlerini düzenlemeye yarayan önceden tanımlı kod parçacıklarıdır.
 
 ###Html de biçimlendirme başlıkları nelerdir?
 
