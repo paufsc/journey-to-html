@@ -11,7 +11,7 @@
 
 * [HTML Giriş](./docs/tr/HTML.md)
 * [HTML Elementler](./docs/tr/Elementler.md)     
-* [HTML Etiketler]()   
+* [HTML Etiketler](./docs/tr/Etiketler.md)   
 * [HTML Parametreler]() 
 * [HTML Özellikler]() 
 * [HTML Başlıklar]() 
