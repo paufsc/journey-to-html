@@ -1,14 +1,13 @@
 # HTML 'de Listeleme
 
 Html ' de listeleme konusunda 3 çeşit listeleme vardır.Bunlar:
-```sh
+
 <ul style="list-style-type:square">
 <li>Unordered Listeleme</li>
 <li>Ordered Listeleme</li>
 <li>HTML Descreption List</li>
-
 </ul>
-```
+
    > İlk olarak Unordered Listelemeyi inceleyelim
     Adından da anlaşılacağı gibi bu listeleme yönteminde belli bir order(sıralama) söz konusu değildir.Yani bir öncelik sırası falan yoktur.Öncelik sırasını ordered sıralamayı anlatırken ne demek istediğimi daha açık anlatacağım.Örnek vermek gerekirse ;
 
@@ -33,10 +32,10 @@ Kodun Çıktısı:
    
 ```sh
 <ol>
- <li>Apples</li>
- <li>Bananas</li>
- <li>Lemons</li>
- <li>Oranges</li>
+ <li>ELma</li>
+ <li>Armut</li>
+ <li>Limon</li>
+ <li>Portakal</li>
 </ol>  
 ```
 Kodun Çıktısı:
@@ -52,11 +51,11 @@ Kodun Çıktısı:
 >>Örnek 1:
 ```sh
 <ol type="1">
- <li>Apples</li>
- <li>Bananas</li>
- <li>Lemons</li>
- <li>Oranges</li>
-</ol>
+ <li>ELma</li>
+ <li>Armut</li>
+ <li>Limon</li>
+ <li>Portakal</li>
+</ol>  
 ```
 Kodun Çıktısı:
 
@@ -70,11 +69,11 @@ Kodun Çıktısı:
 >>Örnek 2:
 ```sh
 <ol type="A">
- <li>Apples</li>
- <li>Bananas</li>
- <li>Lemons</li>
- <li>Oranges</li>
-</ol>
+ <li>ELma</li>
+ <li>Armut</li>
+ <li>Limon</li>
+ <li>Portakal</li>
+</ol> 
 ```
 Kodun Çıktısı:
 
@@ -88,11 +87,11 @@ Kodun Çıktısı:
 >>Örnek 3:
 ```sh
 <ol type="I">
- <li>Apples</li>
- <li>Bananas</li>
- <li>Lemons</li>
- <li>Oranges</li>
-</ol>
+ <li>ELma</li>
+ <li>Armut</li>
+ <li>Limon</li>
+ <li>Portakal</li>
+</ol> 
 ```
 Kodun Çıktısı:
 
@@ -130,14 +129,14 @@ Kodun Çıktısı :
 
 ```sh
 <ul>
-  <li>Coffee</li>
-  <li>Tea
+  <li>Kahve</li>
+  <li>Çay
     <ul>
-    <li>Black tea</li>
-    <li>Green tea</li>
+    <li>Yeşil çay</li>
+    <li>Siyah çay</li>
     </ul>
   </li>
-  <li>Milk</li>
+  <li>Kola</li>
 </ul>
 ```
 Kodun Çıktısı :
