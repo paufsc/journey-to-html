@@ -1,5 +1,5 @@
-###HTML nedir?
- ------------ 
+#HTML nedir?
+ -
  
   > * Zengin Metin İşaret Dili (İngilizce Hyper Text Markup Language, ks. HTML) günümüzde İnternet
     üzerinde  veri paylaşımı için kullanılan en yaygın metin tabanlı dildir.
@@ -12,15 +12,18 @@
   
   > * Bir HTML dosyası basit bir text editör ile oluşturulabilir.
 
-  ---------------
 
-###Kod :
-  ---------------
-  ![][1]
-  [1]: https://github.com/mehmetdik/journey-to-html/blob/master/assets/img/1.png
+```sh
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My First Heading</h1>
+<p>My First paragraph</p>
+</body>
+</html>
+```
+===========
 
-
-  ===========
-
-  |[Next]()
-  -----|-----
+|[Next]()
+-----|-----
+  
