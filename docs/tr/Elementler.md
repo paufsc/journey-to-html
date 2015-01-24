@@ -25,6 +25,6 @@
 `<br>` elemanı bir alt satıra geçmemizi sağlar
 
 
-  ========
+========
 |[Next](Etiketler.md)
 ----|-----
