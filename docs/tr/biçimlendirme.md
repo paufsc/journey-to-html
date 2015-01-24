@@ -1,19 +1,19 @@
-html  biçimlendirme
+###Html  Biçimlendirme
 >>>>>>>Html de biçimlerndirme konusu nedir?
 ----Biçimlendirme konusu internet sayfasında yazıların biçimlerini içermektedir.
 
->>>>>Html de biçimlendirme başlıkları nelerdir?
+##Html de biçimlendirme başlıkları nelerdir?
 
-Bold text
-Important text
-Italic text
-Emphasized text
-Marked text
-Small text
-Deleted text
-Inserted text
-Subscripts
-Superscripts
+* Bold text
+* Important text
+* Italic text
+* Emphasized text
+* Marked text
+* Small text
+* Deleted text
+* Inserted text
+*Subscripts
+* Superscripts
 
 ----htmlde biçimlendirme gibi başlıklardan oluşmaktadır.
 >>>>>Bold text başlığı incelersek adından anlaşılacağı gibi yazılı metindeki sözcükleri webde kalın harf olması için vardır.
