@@ -20,7 +20,7 @@
 * [HTML Stilleri](./docs/tr/stil.md) 
 * [HTML Yorum](./docs/tr/yorumSatiri.md) 
 * [HTML Linkler](./docs/tr/Baglanti.md) 
-* [HTML Görüntüler]() 
+* [HTML Sembol]() 
 * [HTML Tabloları](./docs/tr/tablolama.md) 
 * [HTML Listeleme](./docs/tr/listeleme.md) 
 * [HTML Bloklar]() 
