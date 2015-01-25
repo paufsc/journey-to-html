@@ -30,7 +30,8 @@ bir metin. Başka bir metin. Başka bir metin.
 
 </body>
 </html>
-
-
-
 ```
+### Çıktı
+
+![][1]
+[1]: https://github.com/paufsc/journey-to-html/blob/master/assets/img/Tasarim-1.png
