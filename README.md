@@ -19,7 +19,7 @@
 * [HTML Biçimlendirme](./docs/tr/bicimlendirme.md) 
 * [HTML Stilleri](./docs/tr/stil.md) 
 * [HTML Yorum](./docs/tr/yorumSatiri.md) 
-* [HTML Linkler]() 
+* [HTML Linkler](./docs/tr/Baglanti.md) 
 * [HTML Görüntüler]() 
 * [HTML Tabloları](./docs/tr/tablolama.md) 
 * [HTML Listeleme](./docs/tr/listeleme.md) 
