@@ -5,7 +5,9 @@ Html ' de yazdığımız kodlar için bazen açıklama yapmak isteriz bunun içi
 Burada `<!-- -->` ilk iki tire işaretlerinden sonra yazacağınız tüm ifadeler yorum satırı olmakla birlikte html sayfasını ziyeret edenler görülmeyecektir.Örnek vermek gerkirse;
 
 ```sh
+<p> merhaba<p>
 <!-Yorum satırı->
+<h1>millet<h1>
 ```
 
 Kodun Çıktısı: 
