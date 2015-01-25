@@ -1,0 +1,22 @@
+#Paragraf Oluşturma 
+
+`<p>...</p>` arasına yazacağımız ifadeler paragraf halinde gösterilir.<br>
+ `Örnek`
+ ```sh
+ <html>
+<head>
+  <title>Kum Tanesi</title>
+</head>
+<body>
+  <p>Sokaklarda bulurum kendimi, yalnızlığımdan her kaçışımda. Cebimde ne sigara, ne de para..."Kum tanesi" olduğumu bilirim ama, gösteremem kendimi bir türlü dev haritalarda... Atlarım bir arabaya; "sür!" derim "Kızılay'a"...Eski bir sevgili gelir nedense aklıma; "Dön" derim "Ulus’a"... Barda çalışır, adı"Ayça". Tahmin ettiğim gibi, işte burada... Heyy gülüm hey, şu anda kokteyl yapmakta; Biz duygularımızdan yapardık kokteyli, sonra da sarhoş olurduk, sevişirdik aldırmadan, güneş ışıklarının vücudumuzu olduğu gibi gösteren aydınlığına... "Geri döneceğimi biliyormuş gibi "baktı suratıma,dudaklarında kendince haklı bir tebessüm, haklı çıktı ya davasında... Dedim"ilan ı aşk yapmaya gelmedim; Param yok,sigaram yok, dışarıda taksi bekliyor, üstelik evin anahtarını kaybettim, üstelik kalacak yerim yok..." Ayça sever ya bizi, halletti bütün işleri... Üstelik eski günlerdeki gibi sevişti...</p> 
+  <p>Neyse kafiyeyi bozmayalım...Sonraki gece, aynı dert, aynı tasa... Rakı, radyoda çalan bir nihavend şarkı ve geçmişte yaşanmış ya da yaşanamamış bir kaç ağlatan anı, birleşirler odamda... Eski bir sevgili gelir nedense aklıma... Atlarım arabaya; "Sür!" derim "Mithatpaşa’ya"... Lojmanlarda oturur, edebiyat hocası, adı "Selda"... Tahmin ettiğim gibi işte burada. Vayy gülüm vay, geceliğiyle çıktı kapıya; En sevdiğim elbisesiydi bu, aklımı alırdı her defasında... Bu kızlar hep böylemi hoca;Bu da "geleceğimi biliyormuş gibi" baktı suratıma. Üstelik aynı tebessüm... Benim derdimse aynı; "Geçiyordum,uğradım". Güzel "afyan" u varmış, "fayfe" yaptık, içtik, içtik, içtik... Sonra da bulduk kendimizi yorgun bir sevişme sonrasında... Sanki yıllardır birlikteymişiz gibi rahattık...</p>
+  <p>Kafiye gene bozuldu galiba, neyse; Sonra atarım kendimi evime,odama. Yalnızlığım, "tahmin ettiğim gibi" burada... Ah gülüm ahh,en çok o bakar zaten suratıma,"geri döneciğimi biliyormuşcasına". Tebessüm etmez, soğuktur, zaten bir tek o koyar bana. Yalnızlığın "çöl" olduğunu anlarım, ben zaten "kum tanesi"... Sonra atlarım bir arabaya,"Sür!" derim "Gaziosmanpaşa’ya"; Fahişelik yapar, adı "Asuman"... Kafiye son isimde bozuldu ama; Boşveer bütün isimler "aynıdır" aslında...</p>
+</body>
+</html>
+```
+###Çıktı
+
+ <p>Sokaklarda bulurum kendimi, yalnızlığımdan her kaçışımda. Cebimde ne sigara, ne de para..."Kum tanesi" olduğumu bilirim ama, gösteremem kendimi bir türlü dev haritalarda... Atlarım bir arabaya; "sür!" derim "Kızılay'a"...Eski bir sevgili gelir nedense aklıma; "Dön" derim "Ulus’a"... Barda çalışır, adı"Ayça". Tahmin ettiğim gibi, işte burada... Heyy gülüm hey, şu anda kokteyl yapmakta; Biz duygularımızdan yapardık kokteyli, sonra da sarhoş olurduk, sevişirdik aldırmadan, güneş ışıklarının vücudumuzu olduğu gibi gösteren aydınlığına... "Geri döneceğimi biliyormuş gibi "baktı suratıma,dudaklarında kendince haklı bir tebessüm, haklı çıktı ya davasında... Dedim"ilan ı aşk yapmaya gelmedim; Param yok,sigaram yok, dışarıda taksi bekliyor, üstelik evin anahtarını kaybettim, üstelik kalacak yerim yok..." Ayça sever ya bizi, halletti bütün işleri... Üstelik eski günlerdeki gibi sevişti...</p> 
+  <p>Neyse kafiyeyi bozmayalım...Sonraki gece, aynı dert, aynı tasa... Rakı, radyoda çalan bir nihavend şarkı ve geçmişte yaşanmış ya da yaşanamamış bir kaç ağlatan anı, birleşirler odamda... Eski bir sevgili gelir nedense aklıma... Atlarım arabaya; "Sür!" derim "Mithatpaşa’ya"... Lojmanlarda oturur, edebiyat hocası, adı "Selda"... Tahmin ettiğim gibi işte burada. Vayy gülüm vay, geceliğiyle çıktı kapıya; En sevdiğim elbisesiydi bu, aklımı alırdı her defasında... Bu kızlar hep böylemi hoca;Bu da "geleceğimi biliyormuş gibi" baktı suratıma. Üstelik aynı tebessüm... Benim derdimse aynı; "Geçiyordum,uğradım". Güzel "afyan" u varmış, "fayfe" yaptık, içtik, içtik, içtik... Sonra da bulduk kendimizi yorgun bir sevişme sonrasında... Sanki yıllardır birlikteymişiz gibi rahattık...</p>
+  <p>Kafiye gene bozuldu galiba, neyse; Sonra atarım kendimi evime,odama. Yalnızlığım, "tahmin ettiğim gibi" burada... Ah gülüm ahh,en çok o bakar zaten suratıma,"geri döneciğimi biliyormuşcasına". Tebessüm etmez, soğuktur, zaten bir tek o koyar bana. Yalnızlığın "çöl" olduğunu anlarım, ben zaten "kum tanesi"... Sonra atlarım bir arabaya,"Sür!" derim "Gaziosmanpaşa’ya"; Fahişelik yapar, adı "Asuman"... Kafiye son isimde bozuldu ama; Boşveer bütün isimler "aynıdır" aslında...</p>
+  
