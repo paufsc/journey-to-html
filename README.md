@@ -17,7 +17,7 @@
 * [HTML Başlıklar]() 
 * [HTML Paragraflar]()
 * [HTML Biçimlendirme](./docs/tr/bicimlendirme.md) 
-* [HTML Stilleri]() 
+* [HTML Stilleri](./docs/tr/stil.md) 
 * [HTML Yorum]() 
 * [HTML Linkler]() 
 * [HTML Görüntüler]() 
