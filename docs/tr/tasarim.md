@@ -35,3 +35,11 @@ bir metin. Başka bir metin. Başka bir metin.
 
 ![][1]
 [1]: https://github.com/paufsc/journey-to-html/blob/master/assets/img/Tasarim-1.png
+
+
+
+kaynaklar 
+
+"http://www.uzmancevap.org/soru/107/html-de-turkce-karakter-sorunu"
+
+"http://www.htmldersleri.org/index.php?getir=html_layout&ID=18"
