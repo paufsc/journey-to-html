@@ -18,7 +18,7 @@
 * [HTML Paragraflar]()
 * [HTML Biçimlendirme](./docs/tr/bicimlendirme.md) 
 * [HTML Stilleri](./docs/tr/stil.md) 
-* [HTML Yorum]() 
+* [HTML Yorum](./docs/tr/yorumSatiri.md) 
 * [HTML Linkler]() 
 * [HTML Görüntüler]() 
 * [HTML Tabloları](./docs/tr/tablolama.md) 
