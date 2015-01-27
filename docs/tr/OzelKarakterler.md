@@ -1,3 +1,7 @@
+
+#Web sayfalarında kullanılan karakterlerin (simge) html ye karşılık gelen kodlarını gösteren tablo.
+#Sık kullanılanlar koyu yazılmıştır.
+
 <style type="text/css"></style>
 <table class="tabloKod" border="1" summary="HTML Karakter Kod Listesi" style="border-collapse:collapse">
 <tr><th>Karakter</th><th>Desimal Kodu</th><th>İsimlendirilmiş Giriş</th><th>Açıklama</th></tr>
