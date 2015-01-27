@@ -31,3 +31,23 @@ Eğer banner adlı resmimiz resimler klasörü altında ise < bOdy background="r
 
 < bOdy leftmargin="50" topmargin="50" >  sayfa içeriği kenara yapışık olmadı belirttiğimiz miktarda içeriye kaydı.
 ```
+
+* < sup > yazacağımız yazı < /sup >  iki tag arasındaki yazı satırın birazcık üzeride görünür.
+* < sub >  yazacağımız yazı < /sub >  iki tag arasındaki yazı satırın birazcık altında görünür.
+* < strike > yazacağımız yazı < /strike >  iki tag arasındaki yazı üstü çizili olur 
+* < em > yazacağımız yazı < /em >  vurguyu belirtmek için kullanılır dışarıya biraz eğik çıkar 
+* < strong > yazacağımız yazı < /strong >  güçlü vurguyu belirtir dışarıya biraz koyu çıkar 
+* < code >  yazacağımız yazı < /code >  yasa kural belirten yazılar için kullanılır 
+* < samp >  yazacağımız yazı < /samp >  
+* < var >  yazacağımız yazı < /var >  tam emin olmadığımız yazılar için kullanılır. 
+* < dfn >  yazacağımız yazı < /dfn >  tanımlama belirten yazılar için kullanılır. 
+* < cite > yazcağımız yazı < /cite >  alıntı olan yazıyı belirtmek için kullanılır. 
+* < small >  yazacağımız yazı < /small >  bu iki tag arasındaki yazı dışarıya çok küçük çıkar.
+* < big > yazacağımız yazı < /big >  bu iki tag arasına yazılan yazı dışarıya çok büyük çıkar. 
+* < addres > yazağımız yazı < /addres >  bu iki tag adres belirtmek için kullanılır. 
+* < kbd >  yazacağımız yazı < /kbd >  bu iki tag arasına yazacağımız yazı keyboard karakterleri gibi görünür. 
+* < tt > yazacağımız yazı < /tt >  bu iki tag arasına yazılan yazı daktilo yazısı gibi olur. 
+* < div align= center | left | right > yazacağımız yazı < /div >  yazının satırın neresinde görünmesini bu tag ile belirleriz < p align= left | center | right  >  < /p >  ile aynı görevdedir 
+* < hr size="2" width="20" color="yellow" > bu tag çizgi çizdirmeye yarar width yatay uzunluğu color rengi size dikey uzunluğu belirler. 
+* < marquee bgcolor="blue" loop="170" direction= up | down | right | left scrolldelay="100" scrollamount="30" width="400" height="15" behavior="alternate"  >  
+yazıcağımız yazı veya ekleyeceğimiz resim bölümü 
