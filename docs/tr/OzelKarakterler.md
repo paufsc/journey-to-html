@@ -1,4 +1,4 @@
-<style type="text/css">.tabloKod th{padding:5px;background-color:#F0F0F0;color:navy;}</style>
+<style type="text/css"></style>
 <table class="tabloKod" border="1" summary="HTML Karakter Kod Listesi" style="border-collapse:collapse">
 <tr><th>Karakter</th><th>Desimal Kodu</th><th>İsimlendirilmiş Giriş</th><th>Açıklama</th></tr>
 <tr><td>"</td><td>&amp;#34;</td><td>&amp;quot;</td><td><strong>Çift Tırnak İşareti</strong> (<strong>Quotation mark</strong>)</td></tr>
