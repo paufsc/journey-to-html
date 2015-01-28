@@ -32,6 +32,7 @@
 ###Html5 Elementlerinin Periyodik Tablosu
 ![][2]
 [2]: http://forzamad.com/wp-content/uploads/2011/07/html5-elementlerin-periyodik-tablosu.jpg
-========
-|[Next](Etiketler.md)
-----|-----
+===========
+
+[Previous](HTML.md)|[Next](Etiketler.md)
+-----|-----
