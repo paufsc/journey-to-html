@@ -63,6 +63,7 @@ Etiket(Tag)	     Açıklama
 
 
 
-========
-|[Next]()
-----|-----
+===========
+
+[Previous](Elementler.md)|[Next](Parametreler.md)
+-----|-----
