@@ -109,3 +109,8 @@
 </div>
 </td>
 </tr>
+
+===========
+
+[Previous](OzelKarakterler.md)|[Next](Paragraf.md)
+-----|-----
