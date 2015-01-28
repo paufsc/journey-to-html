@@ -51,3 +51,7 @@ Eğer banner adlı resmimiz resimler klasörü altında ise < bOdy background="r
 * < hr size="2" width="20" color="yellow" > bu tag çizgi çizdirmeye yarar width yatay uzunluğu color rengi size dikey uzunluğu belirler. 
 * < marquee bgcolor="blue" loop="170" direction= up | down | right | left scrolldelay="100" scrollamount="30" width="400" height="15" behavior="alternate"  >  
 yazıcağımız yazı veya ekleyeceğimiz resim bölümü 
+===========
+
+[Previous](Etiketler.md)|[Next](OzelKarakterler)
+-----|-----
