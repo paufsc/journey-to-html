@@ -12,7 +12,7 @@
 * [HTML Giriş](./docs/tr/HTML.md)
 * [HTML Elementler](./docs/tr/Elementler.md)     
 * [HTML Etiketler](./docs/tr/Etiketler.md)   
-* [HTML Parametreler]() 
+* [HTML Parametreler](./docs/tr/Parametreler.md) 
 * [HTML Özel Karakterler](./docs/tr/OzelKarakterler.md) 
 * [HTML Başlıklar]() 
 * [HTML Paragraflar](./docs/tr/Paragraf.md)
