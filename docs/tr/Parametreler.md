@@ -53,5 +53,5 @@ Eğer banner adlı resmimiz resimler klasörü altında ise < bOdy background="r
 yazıcağımız yazı veya ekleyeceğimiz resim bölümü 
 ===========
 
-[Previous](Etiketler.md)|[Next](OzelKarakterler)
+[Previous](Etiketler.md)|[Next](OzelKarakterler.md)
 -----|-----
