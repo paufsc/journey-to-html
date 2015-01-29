@@ -14,7 +14,7 @@
 * [HTML Etiketler](./docs/tr/Etiketler.md)   
 * [HTML Parametreler](./docs/tr/Parametreler.md) 
 * [HTML Özel Karakterler](./docs/tr/OzelKarakterler.md) 
-* [HTML Başlıklar]() 
+* [HTML Bağlantılar](./docs/tr/Baglantilar.md) 
 * [HTML Paragraflar](./docs/tr/Paragraf.md)
 * [HTML Biçimlendirme](./docs/tr/bicimlendirme.md) 
 * [HTML Stilleri](./docs/tr/stil.md) 
