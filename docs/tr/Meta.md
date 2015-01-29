@@ -44,3 +44,8 @@ Sayfanın belirtilen süre sonra yenilenmesini sağlar.Yukarıdaki örnekte sayf
 Hazırladığımız sayfanın arama motorlarının robotları tarafından taranmasına izin vermek veya engellemek için kullanılır.İzin için all, engelleme için none kullanılır.
 
 Meta etiketleri `<head>` etiketleri arasına yazıldığı için sayfalarda görüntülenmez.İlgili sayfaya ait meta etiketlerinin neler olduğunu kaynak kodlarını görüntüleyerek bakabilirsiniz.
+
+===========
+
+[Previous](HTML.md)|[Next](Etiketler.md)
+-----|-----
