@@ -1,3 +1,5 @@
+###Meta Etiketleri
+
 Meta etiketleri, bir web sayfasında bilgi vermek ve browserları yönlendirmek amacıyla kullanılır ve <head>...</head> etiketleri arasına yazılır.İki unsuru sık kullanılır:
 
 NAME: Sayfanın yazarı, sayfanın yayın tarihi, ve benzeri bilgileri içerir.
