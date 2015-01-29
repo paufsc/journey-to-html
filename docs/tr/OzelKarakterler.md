@@ -112,5 +112,5 @@
 
 ===========
 
-[Previous](Parametreler.md)|[Next](Paragraf.md)
+[Previous](Parametreler.md)|[Next](Meta.md)
 -----|-----
