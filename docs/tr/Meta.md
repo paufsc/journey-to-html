@@ -47,5 +47,5 @@ Meta etiketleri `<head>` etiketleri arasına yazıldığı için sayfalarda gör
 
 ===========
 
-[Previous](HTML.md)|[Next](Etiketler.md)
+[Previous](OzeKarekterler.md)|[Next](Paragraf.md)
 -----|-----
